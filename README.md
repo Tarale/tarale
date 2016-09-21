@@ -1,6 +1,6 @@
 # Tarale - Handwriting Font
 
-Free font based on handwriting. A work in progress.
+Cute free font based on one of my handwriting styles. A work in progress. I hope to also make bold and italic versions.
 
 Versions
 --------
